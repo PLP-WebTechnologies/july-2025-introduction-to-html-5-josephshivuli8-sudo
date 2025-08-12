@@ -31,11 +31,11 @@
         <h2>About Me</h2>
         <p>Here is a bit of information about me.</p>
         <ul>
-            <li>Name: John Doe</li>
+            <li>Name: Joe Deon</li>
             <li>Profession: Web Developer</li>
             <li>Hobbies: Coding, Reading, Traveling</li>
         </ul>
-        <img src="profile.jpg" alt="John Doe" width="200">
+        <img src="profile.jpg" alt="Joe Deon" width="200">
     </section>
 
     <section id="contact">
@@ -55,9 +55,10 @@
     </section>
 
     <footer>
-        <p>© 2024 John Doe</p>
+        <p>© 2024 Joe Deon</p>
     </footer>
 
 </body>
+
 
 </html>
